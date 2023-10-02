@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatMulLab", "MatMulLab\MatMulLab.vcxproj", "{A0A68D58-2EB9-4644-837F-99D4B5E5A69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A68D58-2EB9-4644-837F-99D4B5E5A69A}.Debug|x64.ActiveCfg = Debug|x64
+		{A0A68D58-2EB9-4644-837F-99D4B5E5A69A}.Debug|x64.Build.0 = Debug|x64
+		{A0A68D58-2EB9-4644-837F-99D4B5E5A69A}.Release|x64.ActiveCfg = Release|x64
+		{A0A68D58-2EB9-4644-837F-99D4B5E5A69A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6C5C17-2765-4E4B-9162-68DE3AE969A3}
+	EndGlobalSection
+EndGlobal
